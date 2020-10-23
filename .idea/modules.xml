@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DirtOffSeeker.iml" filepath="$PROJECT_DIR$/.idea/modules/DirtOffSeeker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DirtOffSeeker.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DirtOffSeeker.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/libraries/DirtOffSeeker.libraries.iml" filepath="$PROJECT_DIR$/.idea/modules/libraries/DirtOffSeeker.libraries.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/libraries/material-dialogs-master/DirtOffSeeker.libraries.material-dialogs-master.iml" filepath="$PROJECT_DIR$/.idea/modules/libraries/material-dialogs-master/DirtOffSeeker.libraries.material-dialogs-master.iml" />
+    </modules>
+  </component>
+</project>
